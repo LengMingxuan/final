@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="final"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/Cloud Program/C C++/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final">
+				<Option output="G:/Cloud Program/C C++/final/cmake-build-debug/final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Cloud Program/C C++/final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/apps/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="F:/apps/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="F:/apps/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 final"/>
+					<CompileFile command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final/fast">
+				<Option output="G:/Cloud Program/C C++/final/cmake-build-debug/final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Cloud Program/C C++/final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/apps/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="F:/apps/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="F:/apps/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 final/fast"/>
+					<CompileFile command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/Cloud Program/C C++/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/Cloud Program/C C++/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/apps/MinGW/mingw64/bin/mingw32-make.exe -f &quot;G:/Cloud Program/C C++/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/Cloud Program/C C++/final/Disk_lmx.c">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/Disk_lmx.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/FCFS_SJFlmx.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/FCFSlmx.c">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/SJFlmx.c">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/bank_lmx.c">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/bank_lmx.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/main.c">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/replacementlmx.c">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/replacementlmx.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="G:/Cloud Program/C C++/final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Cloud Program/C C++/final/bank_lmx.c
+stdio.h
+-
+bank_lmx.h
+G:/Cloud Program/C C++/final/bank_lmx.h
+
+G:/Cloud Program/C C++/final/bank_lmx.h
+

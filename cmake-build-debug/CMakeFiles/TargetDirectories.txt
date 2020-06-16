@@ -1,0 +1,3 @@
+G:/Cloud Program/C C++/final/cmake-build-debug/CMakeFiles/final.dir
+G:/Cloud Program/C C++/final/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Cloud Program/C C++/final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
